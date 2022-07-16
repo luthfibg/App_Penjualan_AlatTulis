@@ -19,6 +19,7 @@
         app:menu="@menu/bottom_nav"
         app:labelVisibilityMode="labeled"
         app:itemTextColor="@color/white"
+        app:itemIconSize="22dp"
         android:background="@color/pens_ruby"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"

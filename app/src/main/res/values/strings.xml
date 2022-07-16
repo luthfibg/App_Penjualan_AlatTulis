@@ -4,4 +4,8 @@
     <string name="str_nav_acc"> MyAccount </string>
     <string name="str_nav_my"> MyStationary </string>
     <string name="str_nav_sto"> Store </string>
+    <!-- Frame Placeholder -->
+    <string name="str_frame_acc">My Account</string>
+    <string name="str_frame_my">My Stationary</string>
+    <string name="str_frame_sto">Store</string>
 </resources>
