@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Penstore</string>
+    <!-- Bottom nav title -->
+    <string name="str_nav_acc"> MyAccount </string>
+    <string name="str_nav_my"> MyStationary </string>
+    <string name="str_nav_sto"> Store </string>
+</resources>
