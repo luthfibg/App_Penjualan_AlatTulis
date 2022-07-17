@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "813282551625",
+    "project_id": "penstorefb",
+    "storage_bucket": "penstorefb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813282551625:android:378a4833eb76f043065c98",
+        "android_client_info": {
+          "package_name": "com.oxigen.hardware.penstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813282551625-nuqjco2ugdng87kajc8ptve9gb1m02i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4EB2KbcGh4166e9NUZfctLvfXR9dUcbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813282551625-nuqjco2ugdng87kajc8ptve9gb1m02i3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

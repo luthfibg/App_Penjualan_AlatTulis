@@ -5,11 +5,35 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context=".FragerStore">
 
-    <TextView
-        android:id="@+id/placeholder_sto"
+    <RelativeLayout
+        android:id="@+id/rl_advertise"
+        android:layout_width="match_parent"
+        android:layout_height="200dp">
+
+        <HorizontalScrollView
+            android:id="@+id/card_scroller"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/card1"
+                android:layout_width="400dp"
+                android:layout_height="160dp"/>
+        </HorizontalScrollView>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_store"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="@string/str_frame_sto"
-        android:gravity="center"/>
+        android:layout_below="@+id/rl_advertise">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/view_recyclerview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </RelativeLayout>
+
 
 </RelativeLayout>
