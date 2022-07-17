@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Penstore">
         <activity
+            android:name=".EditPhone"
+            android:exported="false" />
+        <activity
+            android:name=".EditFullName"
+            android:exported="false" />
+        <activity
+            android:name=".EditAddress"
+            android:exported="false" />
+        <activity
             android:name=".UserSettings"
             android:exported="false" />
         <activity

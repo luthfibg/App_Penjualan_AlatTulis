@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="50dp"
+    android:paddingStart="20dp"
+    android:paddingEnd="20dp"
+    tools:context=".EditPhone">
+
+    <TextView
+        android:id="@+id/edit_phone_key"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enter Your New Number"/>
+    <EditText
+        android:id="@+id/edit_phone"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/edit_phone_key"
+        android:layout_marginTop="10dp"
+        android:layout_height="50dp"/>
+
+    <Button
+        android:id="@+id/submit_edit_phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/edit_phone"
+        android:text="Submit"
+        android:textColor="@color/white" />
+    <Button
+        android:id="@+id/submit_cancel_phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/submit_edit_phone"
+        android:text="Cancel"
+        android:textColor="@color/white"/>
+
+</RelativeLayout>

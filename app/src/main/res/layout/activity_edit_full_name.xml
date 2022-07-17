@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="50dp"
+    android:paddingStart="20dp"
+    android:paddingEnd="20dp"
+    tools:context=".EditFullName">
+
+    <TextView
+        android:id="@+id/edit_fn_key"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enter Your Full Name"/>
+    <EditText
+        android:id="@+id/edit_fn"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/edit_fn_key"
+        android:layout_marginTop="10dp"
+        android:layout_height="50dp"/>
+
+    <Button
+        android:id="@+id/submit_edit_fn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/edit_fn"
+        android:text="Submit"
+        android:textColor="@color/white" />
+    <Button
+        android:id="@+id/submit_cancel_fn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/submit_edit_fn"
+        android:text="Cancel"
+        android:textColor="@color/white"/>
+</RelativeLayout>

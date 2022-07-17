@@ -20,6 +20,7 @@ public class FragerStore extends Fragment {
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
 
+        FirebaseConnection fc = new FirebaseConnection();
         View view = inflater.inflate(R.layout.fragment_store, container, false);
         recyclerView = view.findViewById(R.id.view_recyclerview);
 
