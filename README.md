@@ -1,6 +1,6 @@
 ## Aplikasi Penjualan Alat Tulis
 
-### Component used (update 16/7/22):
+### Component used (update 17/7/22):
 <ul>
   <li>Fragment</li>
   <li>Listview</li>
