@@ -7,9 +7,18 @@
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Penstore/app/src/main/res/drawable/ic_nav_account_24.xml" value="0.1" />
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Penstore/app/src/main/res/drawable/ic_nav_widgets_24.xml" value="0.1" />
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Penstore/app/src/main/res/layout/activity_main.xml" value="0.2" />
-        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Penstore/app/src/main/res/layout/fragment_account.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Penstore/app/src/main/res/layout/activity_user_address.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Penstore/app/src/main/res/layout/activity_user_email.xml" value="0.22" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Penstore/app/src/main/res/layout/activity_user_full_name.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Penstore/app/src/main/res/layout/activity_user_history.xml" value="0.1859375" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Penstore/app/src/main/res/layout/activity_user_phone.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Penstore/app/src/main/res/layout/activity_user_security.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Penstore/app/src/main/res/layout/activity_user_settings.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Penstore/app/src/main/res/layout/activity_username.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Penstore/app/src/main/res/layout/fragment_account.xml" value="0.22" />
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Penstore/app/src/main/res/layout/fragment_mystationary.xml" value="0.2" />
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Penstore/app/src/main/res/layout/fragment_store.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Penstore/app/src/main/res/layout/list_item.xml" value="0.22" />
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Penstore/app/src/main/res/menu/bottom_nav.xml" value="0.2" />
       </map>
     </option>

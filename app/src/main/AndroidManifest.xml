@@ -10,6 +10,30 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Penstore">
         <activity
+            android:name=".UserSettings"
+            android:exported="false" />
+        <activity
+            android:name=".UserSecurity"
+            android:exported="false" />
+        <activity
+            android:name=".UserHistory"
+            android:exported="false" />
+        <activity
+            android:name=".UserPhone"
+            android:exported="false" />
+        <activity
+            android:name=".UserAddress"
+            android:exported="false" />
+        <activity
+            android:name=".UserFullName"
+            android:exported="false" />
+        <activity
+            android:name=".UserEmail"
+            android:exported="false" />
+        <activity
+            android:name=".UserName"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

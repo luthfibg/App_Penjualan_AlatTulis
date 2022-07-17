@@ -6,6 +6,8 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+
+    <!-- https://youtu.be/9nWcPPHBzMk -->
     <FrameLayout
         android:id="@+id/view_frame"
         android:layout_width="match_parent"

@@ -7,7 +7,11 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="pens_ruby">#9B111E</color>
-    <color name="pens_sanguine">#850505</color>
-    <color name="pens_amber">#FFBF00</color>
+    <color name="pens_ruby">#FF9B111E</color>
+    <color name="pens_sanguine">#FF850505</color>
+    <color name="pens_cherry">#FFD2042D</color>
+    <color name="pens_pumpkin">#FFFF7518</color>
+    <color name="pens_amber">#FFFFBF00</color>
+    <color name="sub_title">#FF343434</color>
+    <color name="light_gray">#FFABABAB</color>
 </resources>
